@@ -1,0 +1,30 @@
+
+
+Begin forwarded message:
+
+> From: GitHub <noreply@github.com>
+> Subject: [GitHub] Subscribed to pipedrive/forwarder notifications
+> Date: 19. juuni 2013 13:17.40 GMT+03:00
+> To: andris@pipedrive.com
+> 
+> 
+> 
+> Hey there, we're just writing to let you know that you've been automatically subscribed to a repository on GitHub.
+> 
+>    pipedrive/forwarder created by martintajur
+>    Email parser/forwarder/organizer
+>    https://github.com/pipedrive/forwarder
+> 
+> You'll receive notifications for all issues, pull requests, and comments that happen inside the repository. If you would like to stop watching this repository, you can manage your settings here:
+> 
+>    https://github.com/pipedrive/forwarder/subscription
+> 
+> You can unwatch this repository immediately by clicking here:
+> 
+>    https://github.com/pipedrive/forwarder/unsubscribe_via_email/8b3bd9897c
+> 
+> You were automatically subscribed because you've been given push access to the repository.
+> 
+> Thanks!
+
+

@@ -1,0 +1,13 @@
+test
+
+----- Original Message ----- 
+From: Sender Name 
+Sent: Saturday, February 09, 2013 1:45 PM
+Subject: Nodemailer is unicode friendly ✔
+
+
+Hello to myself 
+
+Here's a nyan cat for you as an embedded attachment:
+
+

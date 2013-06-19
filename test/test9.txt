@@ -1,0 +1,21 @@
+
+
+-------- Esialgne kiri -------- 
+
+        PEALKIRI:
+        test
+
+        KUUPÄEV:
+
+        2012-08-13 12:00
+
+        SAATJA:
+        Andris Reinman
+<andris@pipedrive.com>
+
+        SAAJA:
+        andris@ekiri.ee
+
+test
+
+ 
